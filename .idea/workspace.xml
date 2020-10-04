@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f03dd8fa-f098-4bc3-ab85-c741ade72b7f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/oop/configuration/configuration.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/configuration/configuration_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="$USER_HOME$/go/go1.15.2" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1iN3eI6CJp8FQdi9UeV1qGdOQo3" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="NewWatcherDialog.advanced.open" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/oop" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/oop/employee" />
+      <recent name="$PROJECT_DIR$/codebits.com/literate-funicular/config" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build main.go">
+    <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="literate-funicular" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="literate-funicular" />
+      <working_directory value="$PROJECT_DIR$/oop" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/oop/main.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestGetGithubAccessToken in oop/configuration" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="literate-funicular" />
+      <working_directory value="$PROJECT_DIR$/oop/configuration" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="oop/configuration" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestGetGithubAccessToken\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestGithubAccessToken in oop/configuration" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="literate-funicular" />
+      <working_directory value="$PROJECT_DIR$/oop/configuration" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="oop/configuration" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestGithubAccessToken\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="configuration_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="literate-funicular" />
+      <working_directory value="$PROJECT_DIR$/oop/configuration" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/oop/configuration/configuration_test.go" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go" />
+        <item itemvalue="Go Test.TestGithubAccessToken in oop/configuration" />
+        <item itemvalue="Go Test.configuration_test.go" />
+        <item itemvalue="Go Test.TestGetGithubAccessToken in oop/configuration" />
+        <item itemvalue="Go Build.go build main.go (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2675" y="376" width="400" height="334" key="#Go_Modules" timestamp="1601734335011">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2675" y="376" width="400" height="334" key="#Go_Modules/1920.0.1920.1080/0.21.1920.1059/3840.0.1920.1080@1920.0.1920.1080" timestamp="1601734335011" />
+    <state x="2728" y="304" width="721" height="660" key="EditFileWatcherDialog" timestamp="1601745511939">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2728" y="304" width="721" height="660" key="EditFileWatcherDialog/1920.0.1920.1080/0.21.1920.1059/3840.0.1920.1080@1920.0.1920.1080" timestamp="1601745511939" />
+    <state width="937" height="277" key="GridCell.Tab.0.bottom" timestamp="1601769408686">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="901" height="277" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.21.1920.1059/3840.0.1920.1080@1920.0.1920.1080" timestamp="1601768386880" />
+    <state width="937" height="277" key="GridCell.Tab.0.bottom/1920.0.1920.1080/72.21.1848.1059/3840.0.1920.1080@1920.0.1920.1080" timestamp="1601769408686" />
+    <state width="937" height="277" key="GridCell.Tab.0.center" timestamp="1601769408686">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="901" height="277" key="GridCell.Tab.0.center/1920.0.1920.1080/0.21.1920.1059/3840.0.1920.1080@1920.0.1920.1080" timestamp="1601768386880" />
+    <state width="937" height="277" key="GridCell.Tab.0.center/1920.0.1920.1080/72.21.1848.1059/3840.0.1920.1080@1920.0.1920.1080" timestamp="1601769408686" />
+    <state width="937" height="277" key="GridCell.Tab.0.left" timestamp="1601769408685">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="901" height="277" key="GridCell.Tab.0.left/1920.0.1920.1080/0.21.1920.1059/3840.0.1920.1080@1920.0.1920.1080" timestamp="1601768386880" />
+    <state width="937" height="277" key="GridCell.Tab.0.left/1920.0.1920.1080/72.21.1848.1059/3840.0.1920.1080@1920.0.1920.1080" timestamp="1601769408685" />
+    <state width="937" height="277" key="GridCell.Tab.0.right" timestamp="1601769408686">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="901" height="277" key="GridCell.Tab.0.right/1920.0.1920.1080/0.21.1920.1059/3840.0.1920.1080@1920.0.1920.1080" timestamp="1601768386880" />
+    <state width="937" height="277" key="GridCell.Tab.0.right/1920.0.1920.1080/72.21.1848.1059/3840.0.1920.1080@1920.0.1920.1080" timestamp="1601769408686" />
+    <state x="2583" y="158" width="1022" height="737" key="SettingsEditor" timestamp="1601745513611">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2583" y="158" width="1022" height="737" key="SettingsEditor/1920.0.1920.1080/0.21.1920.1059/3840.0.1920.1080@1920.0.1920.1080" timestamp="1601745513611" />
+    <state x="2606" y="159" width="620" height="783" key="find.popup" timestamp="1601745269493">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2606" y="159" width="620" height="783" key="find.popup/1920.0.1920.1080/0.21.1920.1059/3840.0.1920.1080@1920.0.1920.1080" timestamp="1601745269493" />
+  </component>
+</project>
